@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ResourceAndDirectory",
+            "request": "launch",
+            "mainClass": "com.dr.app.ResourceAndDirectory",
+            "projectName": "disaster-relief-system"
+        },
+        {
+            "type": "java",
+            "name": "DataAndStatistics",
+            "request": "launch",
+            "mainClass": "com.dr.app.DataAndStatistics",
+            "projectName": "disaster-relief-system"
+        },
+        {
+            "type": "java",
+            "name": "AdminLogin",
+            "request": "launch",
+            "mainClass": "com.dr.app.AdminLogin",
+            "projectName": "disaster-relief-system"
+        },
+        {
+            "type": "java",
+            "name": "BuildAKit",
+            "request": "launch",
+            "mainClass": "com.dr.app.BuildAKit",
+            "projectName": "disaster-relief-system"
+        },
+        {
+            "type": "java",
+            "name": "IncidentReport",
+            "request": "launch",
+            "mainClass": "com.dr.app.IncidentReport",
+            "projectName": "disaster-relief-system"
+        },
+        {
+            "type": "java",
+            "name": "UserLogin",
+            "request": "launch",
+            "mainClass": "UserLogin",
+            "projectName": "disaster-relief-system"
+        },
+        {
+            "type": "java",
+            "name": "UserLogin",
+            "request": "launch",
+            "mainClass": "com.dr.app.UserLogin",
+            "projectName": "disaster-relief-system"
+        },
+        {
+            "type": "java",
+            "name": "Registration",
+            "request": "launch",
+            "mainClass": "main.java.Registration",
+            "projectName": "disaster-relief-system"
+        },
+        {
+            "type": "java",
+            "name": "UserLogin",
+            "request": "launch",
+            "mainClass": "main.java.UserLogin",
+            "projectName": "disaster-relief-system"
+        },
+        {
+            "type": "java",
+            "name": "UserLogin",
+            "request": "launch",
+            "mainClass": "main.java.UserLogin",
+            "projectName": "DR_3466e42c"
+        },
+        {
+            "type": "java",
+            "name": "BuildAKit",
+            "request": "launch",
+            "mainClass": "BuildAKit",
+            "projectName": "DR_3466e42c"
+        },
+        {
+            "type": "java",
+            "name": "IncidentReport",
+            "request": "launch",
+            "mainClass": "IncidentReport",
+            "projectName": "DR_3466e42c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "UserLogin",
+            "request": "launch",
+            "mainClass": "UserLogin",
+            "projectName": "DR_3466e42c"
+        }
+    ]
+}
